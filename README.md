@@ -1,5 +1,6 @@
 # byola_domainXfer
 Models from the paper: Self-Supervised Convolutional Audio Models are Flexible Acoustic Feature Learners: A Domain Specificity and Transfer-Learning Study
+
 See this report for full details.
 
 # Installation
@@ -7,7 +8,7 @@ Install from requirements file and install original BYOL-A repo https://github.c
 
 See also getting_started.txt
 
-A small batch of test audio to check functionality (referenced below) [can be found here](https://www.dropbox.com/scl/fi/6pmb19i02er79j489lnsy/test_audio.zip?rlkey=g0yde5bgu0kignwhvkq03eo17&st=z4xfrzfz&dl=0)
+A small batch of test audio to check functionality (referenced below) can be found [here](https://www.dropbox.com/scl/fi/6pmb19i02er79j489lnsy/test_audio.zip?rlkey=g0yde5bgu0kignwhvkq03eo17&st=z4xfrzfz&dl=0)
 
 # Usage
 We provide scripts to extract embeddings for batches of audio files (organized into folders).
