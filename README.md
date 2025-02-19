@@ -1,7 +1,7 @@
 # byola_domainXfer
 Models from the paper: Self-Supervised Convolutional Audio Models are Flexible Acoustic Feature Learners: A Domain Specificity and Transfer-Learning Study
 
-See this report for full details.
+See report for full details https://arxiv.org/abs/2502.02366 
 
 # Installation
 Install from requirements file and install original BYOL-A repo https://github.com/nttcslab/byol-a 
